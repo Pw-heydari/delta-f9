@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "delta-f9",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "0490416d-e588-45ee-8d22-9db1b9cbd0f3",
+      "database_name": "dry-feather-814c-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
